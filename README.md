@@ -71,10 +71,17 @@ Social networks buttons with links
 
 </div>
 
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/atishkin060705?theme=light&font=JetBrains%20Mono)
+
+
+<!--
 ## 📚 Статьи на habr:
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+-->
+
 
 ## 📈 Статистика:
 
