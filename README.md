@@ -1,23 +1,24 @@
 <h1 align="center">Доброго дня
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
 
-## 👨‍💻 Обо мне:
+# 👨‍💻 Обо мне:
 
 Я начинающий ML-инженер, back-end разработчик.
 
-Мой путь в IT начался с обучения в Яндекс лицее где я прошел 2 годовых курса по Python: основы программирования и
-промышленное программирование.
+Мой путь в IT начался с обучения в Яндекс лицее где я прошел 2 годовых курса по Python.
 Был опыт работы на фрилансе (в основном чат-боты и простенькие скрипты, а так-же back-end).
-Во время учебы в ВУЗе работал в Сбер-Лаборатории (занимался back-end'ом и деплоем).
+Во время учебы в ВУЗе работал в Сбер-Лаборатории (занимался back-end'ом, деплоем, внедрением LLM).
 Есть опыт в проектировании АЛУ и разработке под Микроконтроллеры.
 Сейчас являюсь студентом третьего курса бакалавриата ИИР НГУ на направлении "Искусственный интеллект".
 
-<p>- 🏆 Окончил Яндекс Лицей<br>- 💼 Работал в Сбер-Лаборатории<br>- 📙 Cтудент 3 курса бакалавриата НГУ направления Искусственный интеллект
+<p>- 💼 Работал в Сбер-Лаборатории<br>- 📙 Cтудент 3 курса бакалавриата НГУ направления Искусственный интеллект
 </p>
 
+<!--
 https://pypi.org/user/andrei1112111/
+-->
 
-## 📡 Контакты:
+# 📡 Контакты:
 
 <!--
 Social networks buttons with links
@@ -27,7 +28,16 @@ Social networks buttons with links
 
 #### Вы можете написать на Email [atishkin060705@gmail.com]()
 
-## 🛠 Работаю с:
+
+# 🥲 Несколько проектов за которые не стыдно:
+
+## [Гольф на C++ с ascii графикой](https://github.com/andrei1112111/ascii-golf)
+![сдезь д0лжна быть гИфка](gif/ascii_golf.gif)
+
+## [Умный поиск по корпоративной базе данных на естественном языке](https://github.com/andrei1112111/ascii-golf)
+![сдезь д0лжна быть гИфка](gif/smart_search.gif)
+
+# 🛠 Работаю с:
 
 <div>
 
@@ -37,38 +47,38 @@ Social networks buttons with links
 
 ### Языки:
 
-| Python3                                                                                  | C++                                                                    | C                                                                    | Haskell                                                                    | Assembly                                                                                                                                   | SQL                                                                    |
-|------------------------------------------------------------------------------------------|------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------|
+| Python3 | C++ | Haskell | Assembly | SQL |
+|---------|-----|---------|----------|-----|
 | <img src="https://skillicons.dev/icons?i=python" width="55" height="55" align="center"/> | <img src="https://skillicons.dev/icons?i=cpp" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=c" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=haskell" width="55" height="55"/> | <img src="https://user-images.githubusercontent.com/103866722/177873824-ac727cae-29d5-406d-87de-93bb2bf21f02.png" width="55" height="55"/> | <img src="https://icons.veryicon.com/png/o/application/it-software-development-career/sql-language.png" width="55" height="55"/> |
 
 ### Фреймворки и библиотеки:
 
-| Numpy                                                                                                                                                          | Pandas                                                                                                                                                           | transformers                                                                                          | OpenCV                                                                                                                                                           | pydantic                                                                                        | Selenium                                                                                                                                                             | Flask                                                                                                                                                          | Pygame                                                                                        | PyQt5                                                                                                                                                    |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/numpy/numpy-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-original.svg" width="55" height="55"/> | <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/opencv/opencv-original.svg" width="55" height="55"/> | <img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/selenium/selenium-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flask/flask-original.svg" width="55" height="55"/> | <img src="https://avatars.githubusercontent.com/u/20628127?s=48&v=4" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/qt/qt-original.svg" width="55" height="55"/> |
+| Numpy  | Pandas | transformers | OpenCV | pytorch | skikit-learn | pydantic | Selenium | Flask | Pygame | PyQt5 |
+|--------|--------|--------------|--------|---------|--------------|----------|----------|-------|--------|-------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/numpy/numpy-original.svg" width="55" height="55"/> |<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pandas/pandas-original.svg" width="55" height="55"/> |<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="55" height="55"/> |<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/opencv/opencv-original.svg" width="55" height="55"/> |<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7C6ZdvAuHwplsqGXSPicvsK6Psek9Gic0pg&s" width="55" height="55"/> |<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ZQBsnsCRAj4jeTlu3XafnEa9orV8_4h0UQ&s" width="55" height="55"/> |<img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" width="55" height="55"/> |<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/selenium/selenium-original.svg" width="55" height="55"/> |<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flask/flask-original.svg" width="55" height="55"/> |<img src="https://avatars.githubusercontent.com/u/20628127?s=48&v=4" width="55" height="55"/> |<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/qt/qt-original.svg" width="55" height="55"/> |
 
 ### Визуализация и работа с данными:
 
-| Jupyter                                                                                                                                                            | Postgres                                                                    | SQLite                                                                    | Matpltlib                                                                                                                                                                |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jupyter/jupyter-original.svg" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=sqlite" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/matplotlib/matplotlib-original.svg" width="55" height="55"/> |
+| Jupyter | Postgres | SQLite | Matpltlib | Seaborn |
+|---------|----------|--------|-----------|---------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jupyter/jupyter-original.svg" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=postgres" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=sqlite" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/matplotlib/matplotlib-original.svg" width="55" height="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="55" height="55"/> |
 
 ### Тестирование, Развертывание и т.п:
 
-| Git                                                                    | Docker                                                                    | Postman                                                                    | Nginx                                                                    | Cmake                                                                    | Pytest                                                                                    |
-|------------------------------------------------------------------------|---------------------------------------------------------------------------|----------------------------------------------------------------------------|--------------------------------------------------------------------------|--------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| Git | Docker | Postman | Nginx | Cmake | Pytest |
+|-----|--------|---------|-------|-------|--------|
 | <img src="https://skillicons.dev/icons?i=git" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=docker" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=postman" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=nginx" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=cmake" width="55" height="55"/> | <img src="https://docs.pytest.org/en/stable/_static/pytest1.png" width="55" height="55"/> |
 
 ### Операционные системы:
 
-| Linux                                                                    | Ubuntu                                                                    | Debian                                                                    | Macos                                                                                                                 |
-|--------------------------------------------------------------------------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| Linux | Ubuntu | Debian | Macos |
+|-------|--------|--------|-------|
 | <img src="https://skillicons.dev/icons?i=linux" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=ubuntu" width="55" height="55"/> | <img src="https://skillicons.dev/icons?i=debian" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Finder_Icon_macOS_Big_Sur.png" width="55" height="55"/> |
 
 ### Остальное:
 
-| Jira                                                                                                                                                         | Json                                                                                                                                                         | HTML                                                                                                                                                           | CSS                                                                                                                                                          | GitLab                                                                                                                                                           | CSV                                                                                         | YML                                                                                           |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| Jira | Json | HTML | CSS | GitLab | CSV | YML |
+|------|------|------|-----|--------|-----|-----|
 | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/jira/jira-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/json/json-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/gitlab/gitlab-original.svg" width="55" height="55"/> | <img src="https://cdn-icons-png.flaticon.com/512/9159/9159105.png" width="55" height="55"/> | <img src="https://cdn-icons-png.flaticon.com/512/10074/10074702.png" width="55" height="55"/> |
 
 </div>
@@ -86,6 +96,7 @@ Social networks buttons with links
 ![LeetCode Stats](https://leetcard.jacoblin.cool/atishkin060705?theme=light&font=JetBrains%20Mono)
 -->
 
+# Статки по гиту
 <!--
 Stats
 -->
@@ -98,11 +109,6 @@ Stats
 </div>
 
 ## На связи 🤝
-
-<!--
-Rundome joke :)
--->
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 <!--
 ![Snake animation](https://raw.githubusercontent.com/sammorozov/sammorozov/93295f8b496a5f6c442757108ce760cd75ad5f9f/assets/github-snake.svg)
