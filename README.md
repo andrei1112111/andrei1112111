@@ -92,23 +92,24 @@ Social networks buttons with links
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<!--
-## 📈 Статистика:
+## 📈 Литкод (и пусть мне стыдно что так скромно):
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/atishkin060705?theme=light&font=JetBrains%20Mono)
--->
 
-# Статки по гиту
+# Гит
 <!--
 Stats
 -->
 <div align="">
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrei1112111">
 <div align="">
+</div>
+
+<!--
 <img align="" src="https://github-readme-stats.vercel.app/api?username=andrei1112111&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=5c6d74&icon_color=5c6d74&text_color=5c6d74" alt="my Github Stats"/>
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrei1112111&show_icons=true&locale=en&layout=compact&title_color=5c6d74&icon_color=5c6d74&text_color=5c6d74" alt="ovi" />
 </div>
-</div>
+-->
 
 ## На связи 🤝
 
