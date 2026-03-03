@@ -92,7 +92,7 @@ Social networks buttons with links
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## 📈 Литкод (и пусть мне стыдно что так скромно):
+## 📈 Литкод (работаю над этим):
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/atishkin060705?theme=light&font=JetBrains%20Mono)
 
