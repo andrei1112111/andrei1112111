@@ -23,7 +23,7 @@ Social networks buttons with links
 <a href="https://t.me/Lizarcon" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="TELEGRAM"></a>
 <a href="https://vk.com/walker15363" target="_blank"><img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="TELEGRAM"></a>
 
-#### Вы можете написать на Email [atishkin060705@gmail.com]() 
+atishkin060705@gmail.com
 
 ## [Гольф на C++ с ascii графикой](https://github.com/andrei1112111/ascii-golf)
 ![сдезь д0лжна быть гИфка](gif/ascii_golf.gif)
@@ -31,8 +31,7 @@ Social networks buttons with links
 ## [Умный поиск по корпоративной базе данных на естественном языке](https://github.com/andrei1112111/ascii-golf)
 ![сдезь д0лжна быть гИфка](gif/smart_search.gif)
 
-## здесь должны были быть лабы по курсу ИИ в НГУ но они безвозвратно потерялись 😢😥😭
-
+<!--
 # 🛠 Работаю с:
 
 <div>
@@ -116,3 +115,4 @@ Stats
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrei1112111/andrei1112111/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andrei1112111/andrei1112111/output/github-contribution-grid-snake.svg">
 </picture>
+-->
