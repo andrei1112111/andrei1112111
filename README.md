@@ -26,10 +26,7 @@ Social networks buttons with links
 <a href="https://t.me/Lizarcon" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="TELEGRAM"></a>
 <a href="https://vk.com/walker15363" target="_blank"><img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="TELEGRAM"></a>
 
-#### Вы можете написать на Email [atishkin060705@gmail.com]()
-
-
-# 🥲 Несколько проектов за которые не стыдно:
+#### Вы можете написать на Email [atishkin060705@gmail.com]() 
 
 ## [Гольф на C++ с ascii графикой](https://github.com/andrei1112111/ascii-golf)
 ![сдезь д0лжна быть гИфка](gif/ascii_golf.gif)
