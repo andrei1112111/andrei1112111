@@ -22,7 +22,6 @@ Social networks buttons with links
 -->
 <a href="https://t.me/Lizarcon" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="TELEGRAM"></a>
 <a href="https://vk.com/walker15363" target="_blank"><img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" alt="TELEGRAM"></a>
-
 atishkin060705@gmail.com
 
 ## [Гольф на C++ с ascii графикой](https://github.com/andrei1112111/ascii-golf)
@@ -35,11 +34,11 @@ atishkin060705@gmail.com
 # 🛠 Работаю с:
 
 <div>
-
+-->
 <!--
 <img src="" width="55" height="55"/>
 -->
-
+<!--
 ### Языки:
 
 | Python3 | C++ | Haskell | Assembly | SQL |
@@ -78,38 +77,40 @@ atishkin060705@gmail.com
 
 </div>
 
-
+-->
 <!--
 ## 📚 Статьи на habr:
 -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
+<!--
 ## 📈 Литкод (работаю над этим c 03.02.2026):
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/atishkin060705?theme=light&font=JetBrains%20Mono)
 
 # Гит
+-->
 <!--
 Stats
 -->
+<!--
 <div align="">
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andrei1112111">
 <div align="">
 </div>
-
+-->
 <!--
 <img align="" src="https://github-readme-stats.vercel.app/api?username=andrei1112111&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=5c6d74&icon_color=5c6d74&text_color=5c6d74" alt="my Github Stats"/>
 <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrei1112111&show_icons=true&locale=en&layout=compact&title_color=5c6d74&icon_color=5c6d74&text_color=5c6d74" alt="ovi" />
 </div>
 -->
-
+<!--
 ## На связи 🤝
-
+-->
 <!--
 ![Snake animation](https://raw.githubusercontent.com/sammorozov/sammorozov/93295f8b496a5f6c442757108ce760cd75ad5f9f/assets/github-snake.svg)
 -->
-
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andrei1112111/andrei1112111/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andrei1112111/andrei1112111/output/github-contribution-grid-snake.svg">
